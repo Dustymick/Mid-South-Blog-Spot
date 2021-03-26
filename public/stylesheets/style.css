@@ -8,12 +8,13 @@ body, html {
   margin: 0;
   font-family: sans-serif;
   color: #333;
-  background-image: url('/public/images/stil-vdaJJbls3xE-unsplash.jpg');
+  background-image: url('/images/blue-snow.png');
+  background-size: 100%;
 }
 
 a {
   text-decoration: none;
-  color: #225ca3;
+  color: #033e86;
   font-weight: bold;
   transition: color .1s;
 }
@@ -34,7 +35,7 @@ button {
 }
 
 button:hover {
-  background-color: #3486eb;
+  background-color:#3486eb;
 }
 
 .post-list {
@@ -177,4 +178,5 @@ footer {
   justify-content: center;
   padding: 1%;
   font-size: 110%;
+  color:#3486eb;
 }
