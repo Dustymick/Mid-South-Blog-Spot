@@ -12,3 +12,5 @@ Tools used:
 -mysql2
 -sequelize
 ##
+![image](https://user-images.githubusercontent.com/75334749/112684742-77de2e00-8e41-11eb-9298-64bbec72f55c.png)
+##
