@@ -3,14 +3,23 @@ Mid-South Blog Spot is a community blogging website where users can create an ac
 ##
 Tools used:
 -bcrypt
+
 -connect-session-sequelize
+
 -dotenv
+
 -express
+
 -express-handlebars
+
 -express-session
+
 -handlebars
+
 -mysql2
+
 -sequelize
+
 ##
 ![image](https://user-images.githubusercontent.com/75334749/112684742-77de2e00-8e41-11eb-9298-64bbec72f55c.png)
 ##
